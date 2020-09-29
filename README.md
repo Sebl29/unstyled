@@ -1,19 +1,19 @@
-[![Meteor Icon](http://icon.meteor.com/package/useraccounts:unstyled)](https://atmospherejs.com/useraccounts/unstyled)
+[![Meteor Icon](http://icon.meteor.com/package/sebl29:useraccounts-unstyled)](https://atmospherejs.com/useraccounts/unstyled)
 [![Build Status](https://travis-ci.org/meteor-useraccounts/unstyled.svg?branch=master)](https://travis-ci.org/meteor-useraccounts/unstyled)
 
-useraccounts:unstyled
+sebl29:useraccounts-unstyled
 =====================================
 
 Meteor sign up and sign in templates (and much more!) ustyled
 
-This package depends on [useraccounts:core](https://atmospherejs.com/useraccounts/core)
+This package depends on [sebl29:useraccounts-core](https://atmospherejs.com/useraccounts/core)
 
 Learn more [here](http://useraccounts.meteor.com) or have a look at the full [documentation](https://github.com/meteor-useraccounts/core).
 
 
 ## Bring Your Own CSS
 
-Adding this package with `meteor add useraccounts:unstyled` does not add any css/less/sass rules but for the colors for social login buttons. This is to let you write your own ones!
+Adding this package with `meteor add sebl29:useraccounts-unstyled` does not add any css/less/sass rules but for the colors for social login buttons. This is to let you write your own ones!
 
 ## Writing Custom CSS Rules
 
